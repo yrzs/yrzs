@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrzs&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <img align="right" width="51%" src="https://github-readme-stats.vercel.app/api?username=yrzs&show_icons=true">
 
-<img align='right' width='51%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrzs&layout=compact&card_width=495">
+<!--<img align='right' width='51%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrzs&layout=compact&card_width=495">-->
 
 ## Hey 👋
 
 [![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%yrzs)](https://github.com/yrzs).
 
-- 🔭 I live in HangZhou and work as a [Software Engineer 👨‍💻](http://www.yrzs.tk). 
+- 🔭 I live in HangZhou and work as a [Software Engineer 👨‍💻](http://www.yrzs.tk)
